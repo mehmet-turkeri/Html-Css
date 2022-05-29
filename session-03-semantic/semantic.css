@@ -1,0 +1,46 @@
+body{
+  color:black;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+  background-color: red;
+  color: aliceblue;
+  padding: 50px;
+  height: 50px;
+  margin-bottom: 10px;
+}
+
+nav{
+  background-color: rgb(7, 172, 172);
+  padding: 20px;
+}
+
+nav a{
+  text-decoration: none;
+}
+
+aside{
+  background: yellow;
+  float: left;
+  width: 25%;
+  height: 1000px;
+}
+
+main{
+  float: left;
+  width: 75%;
+  height: 70%;
+  background-color: antiquewhite;  
+}
+
+footer{
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+  display: flex;
+  justify-content: bottom;
+  width: 97%;
+  padding-left: 500px;
+}
